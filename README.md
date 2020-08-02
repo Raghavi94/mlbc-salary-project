@@ -1,2 +1,2 @@
 # mlbc-salary-project
-This project is on the salary insights of the employee.
+This project gives the information of an employee,his/her salary details and his/her profession
